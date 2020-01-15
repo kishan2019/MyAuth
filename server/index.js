@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-//Import router
+//import router
 const authRoute = require('./routes/auth');
 
 // middleware
